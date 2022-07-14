@@ -107,3 +107,17 @@ main {
 p {
   margin: 25px;
 }
+
+footer {
+  height: 200px;
+  line-height: 2em;
+}
+
+.copyright {
+  margin-left: 20px;
+  float: left;
+}
+
+.copyright p {
+  font-size: 0.8em;
+}
