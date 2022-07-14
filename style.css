@@ -56,18 +56,19 @@ header {
   height: 100px;
 }
 
-header h2 {
-  font-size: 2em;
+h2 {
+  font-size: 1.5em;
+  margin: 10px;
 }
 
 main {
   position: relative;
   width: 1000px;
-  margin: 150px auto;
+  margin: 120px auto;
 }
 
 .container img {
   width: 300px;
   height: 200px;
-  padding: 10px 10px;
+  padding: 15px 10px;
 }
